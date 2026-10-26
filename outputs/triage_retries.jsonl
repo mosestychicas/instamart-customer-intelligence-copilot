@@ -1,0 +1,19 @@
+{"ticket_id": "T0002", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04595, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0116", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05419, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0116", "mode": "zero_shot", "retry_number": 1, "wait_seconds": 0.09531, "error": "invalid model output"}
+{"ticket_id": "T0049", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05175, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0134", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04536, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0039", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.052, "error": "invalid model output"}
+{"ticket_id": "T0013", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05563, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0113", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04846, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0043", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04582, "error": "invalid model output"}
+{"ticket_id": "T0107", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05707, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0064", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05562, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0155", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05371, "error": "invalid model output"}
+{"ticket_id": "T0051", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04828, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0109", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05518, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0068", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04702, "error": "invalid model output"}
+{"ticket_id": "T0052", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.04958, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0093", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05267, "error": "TransientLLMError: 503 server busy"}
+{"ticket_id": "T0009", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05423, "error": "invalid model output"}
+{"ticket_id": "T0054", "mode": "zero_shot", "retry_number": 0, "wait_seconds": 0.05577, "error": "TransientLLMError: 503 server busy"}

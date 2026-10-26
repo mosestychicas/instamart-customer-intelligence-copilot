@@ -1,0 +1,36 @@
+﻿# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary logs
+*.log
+
+# Temporary test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime agent checkpoints (generated during execution)
+state/
+
+# Local SQLite transient files
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
